@@ -1,0 +1,8 @@
+/* BASIC STYLES HERE */
+
+body {
+    background-image: url(https://media.istockphoto.com/id/1174871534/photo/futuristic-sci-fi-concrete-room-with-glowing-neon-virtual-reality-portal-computer-video-games.jpg?s=2048x2048&w=is&k=20&c=JrroQOi9f8UhXRai6zx-udXv8aEsEjG1e0GvZ4OmSFw=);
+    background-size: cover;
+    object-fit: cover;
+    height: 100%;
+}
